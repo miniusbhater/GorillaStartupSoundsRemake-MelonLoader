@@ -1,0 +1,2 @@
+# GorillaStartupSoundsRemake-MelonLoader
+GorillaStartupSoundsRemake but ported to MelonLoader
